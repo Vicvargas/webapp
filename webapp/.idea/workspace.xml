@@ -84,7 +84,8 @@
         <entry key="$PROJECT_DIR$/../Microservices" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Microservices" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1TqeD0rFYyQH0jaW15pWLdGeQiw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -152,7 +153,7 @@
       <workItem from="1574472577443" duration="6439000" />
       <workItem from="1574488111767" duration="8000" />
       <workItem from="1574499784415" duration="9953000" />
-      <workItem from="1574512228551" duration="386000" />
+      <workItem from="1574512228551" duration="787000" />
     </task>
     <servers />
   </component>
